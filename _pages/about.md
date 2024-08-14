@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " Hello, I am Bharath :wave: "
+title: "👋 Hello, I am Bharath!"
 author_profile: true
 redirect_from: 
   - /about/
