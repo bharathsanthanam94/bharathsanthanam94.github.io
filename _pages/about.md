@@ -22,3 +22,5 @@ About me:
 Deep learning excites me. I'm actively applying it to real projects in agriculture and robotics. My journey from mechanical engineering to AI has shown me the transformative power of software in today's world. I am currently exploring large language models for RAG applications, and deploying machine learning models in production environments. My diverse backgrounds, spanning different cultures and industries, has taught me the value of human connections and an action-first mindset. Outside of work, I enjoy watching sports, particularly cricket and tennis, and find that Indian music helps me stay grounded.
 
 I believe in the unique potential of every individual to create value, and I'm excited to collaborate and make a positive impact together.
+
+Feel free to look at my projects at  [projects](https://bharathsanthanam94.github.io//portfolio/)
