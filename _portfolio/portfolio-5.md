@@ -21,4 +21,6 @@ Key steps:
 
 Code credits:
 The code is fully developed by the authors of the previous work[ (link)](https://github.com/PRBonn/TCoRe). I only added the RGB projection part as an extention to investigates if it improves the mesh reconstruction. My contribution is summarized below:
-![mesh_reconstruction_flowchart](\images\reconstruction_flowchat.png)
+
+
+![mesh_reconstruction_flowchart](/images/reconstruction_flowchat.png)
