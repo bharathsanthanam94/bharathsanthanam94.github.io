@@ -63,15 +63,13 @@ Work experience
 * ### Manufacturing Engineer, Vibrant America, San Carlos, California , Nov 2019 - July 2021
 
   Performed extensive data analysis on patient data using Python and SQL to extract insights and identify bottlenecks in the diagnostic workflow. Automated antibody testing with liquid handling equipment, significantly improving efficiency and accuracy.
-
-### - Product Engineer (Design), Honda R&D Americas, Inc. Jan 2019 - Oct 2019
+* ### Product Engineer (Design), Honda R&D Americas, Inc. Jan 2019 - Oct 2019
 
 - Developed Fault Tree Analysis for a new mechanism in steering columns.
 - Designed and developed a steering gearbox sealing structure in compliance with automotive standards.
 - Designed steering and suspension parts for four-wheel steering projects.
 - Co-ordinated with suppliers and, negotiated test specifications, developed Design Verification Plans & Reports ( DVP & R) and developed FMEA (Failure Mode and Effect Analysis)
-
-### - Graduate Assistant, [3DX research ](https://3dxresearch.com/), Arizona State University
+- Graduate Assistant, [3DX research ](https://3dxresearch.com/), Arizona State University
 
 Worked under Professor Dhruv Bhate and conducted research on honeycomb structures 3D printed using the Selective Laser Sintering (SLS) method.
 
@@ -81,7 +79,9 @@ Goss D, Mistry Y, Niverty S, Noe C, Santhanam B, Ozturk C, Penick CA, Lee C, Cha
 
 Rajeev, A., Grishin, A., Agrawal, V., Santhanam, B., Goss, D., Niverty, S., Cope, G., Penick, C. A., Chawla, N., Shyam, V., McNichols, E., & Bhate, D. (2022). Parametric optimization of corner radius in hexagonal honeycombs under in-plane compression. *Journal of Manufacturing Processes*,  *79* , 35-46. https://doi.org/10.1016/j.jmapro.2022.04.041 [[link](https://www.sciencedirect.com/science/article/abs/pii/S1526612522002742)]
 
-### - Senior Executive,Research and Development-Rane -NSK steering systems, India
+
+
+### Senior Executive,Research and Development-Rane -NSK steering systems, India
 
 - Worked with experienced engineers on the design and development of steering systems for automotive companies.
 - Contributed to 3D modeling, finite element analysis, design validation, and quality improvement projects, achieving significant cost reductions and ensured compliance with automotive industry standards.
