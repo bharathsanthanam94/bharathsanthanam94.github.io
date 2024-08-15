@@ -16,7 +16,6 @@ Education
 * M.S. Mechanical Engineering, 2018, Arizona State University, Tempe, Arizona, USA.
 * B.S. in Mechanical Engineering, 2015, SASTRA University, India
 
-
 Skills
 ======
 
@@ -71,21 +70,18 @@ Work experience
 - Co-ordinated with suppliers and, negotiated test specifications, developed Design Verification Plans & Reports ( DVP & R) and developed FMEA (Failure Mode and Effect Analysis)
 - Graduate Assistant, [3DX research ](https://3dxresearch.com/), Arizona State University
 
-Worked under Professor Dhruv Bhate and conducted research on honeycomb structures 3D printed using the Selective Laser Sintering (SLS) method.
+  Worked under Professor Dhruv Bhate and conducted research on honeycomb structures 3D printed using the Selective Laser Sintering (SLS) method.
 
-Co-authored research papers:
+  Co-authored research papers:
 
-Goss D, Mistry Y, Niverty S, Noe C, Santhanam B, Ozturk C, Penick CA, Lee C, Chawla N, Grishin A, Shyam V, Bhate D. Bioinspired Honeycomb Core Design: An Experimental Study of the Role of Corner Radius, Coping and Interface. Biomimetics (Basel). 2020 Nov 4;5(4):59. doi: 10.3390/biomimetics5040059. PMID: 33158131; PMCID: PMC7709708. [[Link](https://pubmed.ncbi.nlm.nih.gov/33158131/)]
+  Goss D, Mistry Y, Niverty S, Noe C, Santhanam B, Ozturk C, Penick CA, Lee C, Chawla N, Grishin A, Shyam V, Bhate D. Bioinspired Honeycomb Core Design: An 	E											Experimental Study of the Role of Corner Radius, Coping and Interface. Biomimetics (Basel). 2020 Nov 4;5(4):59. doi: 10.3390/biomimetics5040059. PMID: 33158131; PMCID: PMC7709708. [[Link](https://pubmed.ncbi.nlm.nih.gov/33158131/)]
 
 Rajeev, A., Grishin, A., Agrawal, V., Santhanam, B., Goss, D., Niverty, S., Cope, G., Penick, C. A., Chawla, N., Shyam, V., McNichols, E., & Bhate, D. (2022). Parametric optimization of corner radius in hexagonal honeycombs under in-plane compression. *Journal of Manufacturing Processes*,  *79* , 35-46. https://doi.org/10.1016/j.jmapro.2022.04.041 [[link](https://www.sciencedirect.com/science/article/abs/pii/S1526612522002742)]
-
-
 
 ### Senior Executive,Research and Development-Rane -NSK steering systems, India
 
 - Worked with experienced engineers on the design and development of steering systems for automotive companies.
 - Contributed to 3D modeling, finite element analysis, design validation, and quality improvement projects, achieving significant cost reductions and ensured compliance with automotive industry standards.
-
 
 Awards
 ======
