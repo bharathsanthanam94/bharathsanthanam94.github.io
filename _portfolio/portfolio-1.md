@@ -1,9 +1,7 @@
 ---
 title: "Safe robot manipulation using monitoring and recovery strategies"
-excerpt: " Trained a reinforcement learning model for a robotic arm to reach door handles in simulation and successfully transferred it to real-world applications. Developed a self-supervised learning-based anomaly detection model to monitor irregularities and implemented recovery steps.<br/><img src='/images/example_RL2.jpg'>"
+excerpt: " Trained a reinforcement learning model for a robotic arm to reach door handles in simulation and successfully transferred it to real-world. Developed a self-supervised learning-based anomaly detection model to monitor irregularities and implemented recovery steps.<br/><img src='/images/example_RL2.jpg'>"
 collection: portfolio
-
-
 ---
 ### Abstract
 
@@ -19,7 +17,7 @@ Reinforcement learning models trained for robot manipulation tasks often struggl
 
 ### Concepts
 
-Reinforcement learning, self supervised learning and Gaussian mixture models. 
+Reinforcement learning, self supervised learning and Gaussian mixture models.
 
 ### Tools and Packages
 
