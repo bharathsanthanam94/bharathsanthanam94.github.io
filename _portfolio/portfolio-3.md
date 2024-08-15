@@ -18,6 +18,7 @@ We train and deploy an object detector and tracker for real-life agricultural fi
 
 ![Tracker](/images/tracker_weeds.gif)
 
+![tracker_pipeline](/images/tracker_flowchart.png)
 
 ### Code :
 
