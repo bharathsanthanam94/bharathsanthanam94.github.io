@@ -1,13 +1,14 @@
 ---
 title: "Safe robot manipulation using monitoring and recovery strategies"
-excerpt: " Trained a reinforcement learning model for a robotic arm to reach door handles in simulation and successfully transferred it to real-world. Developed a self-supervised learning-based anomaly detection model to monitor irregularities and implemented recovery steps.<br/><img src='/images/example_RL2.jpg'>"
+excerpt: " Trained a reinforcement learning model for a robotic arm to reach door handles in simulation and successfully transferred it to real-world. Developed a self-supervised learning-based anomaly detection model to monitor irregularities and implemented recovery steps.<br/><img src='/images/rl.gif'>"
 collection: portfolio
 ---
 ### Abstract
 
-Note: We are currently writing a research paper for this work with an idea to publish, more details and the code will be shared soon.
+### Paper submitted to ICRA 2025 ([Code](https://github.com/bharathsanthanam94/robust-robot-policy-execution))
 
 Reinforcement learning models trained for robot manipulation tasks often struggle with reliability when deployed in real-world environments. This challenge arises because these models are trained in simulations and then transferred to the real world. The complexities of real-world scenarios present adaptability issues for the model, leading to suboptimal task performance when deployed on actual robots. To address this limitation, we developed an anomaly detection model designed to identify irregularities during deployment and execute appropriate recovery steps.
+
 
 ### Key steps
 
